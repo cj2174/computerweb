@@ -2,7 +2,10 @@
 
 HTML, CSS, JavaScript를 사용하여 반응형 웹 디자인을 구현
 
-![image](https://github.com/user-attachments/assets/afd74570-e00a-4fcf-9fde-b343dcb72c14)
+![image](https://github.com/user-attachments/assets/694761cf-5dd0-4fb8-bfe1-ccf0211ac4eb)
+![image](https://github.com/user-attachments/assets/9978bce6-dac3-4c3b-8abd-d95c7a9db941)
+
+
 
 
 ## 기능
