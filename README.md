@@ -2,6 +2,9 @@
 
 HTML, CSS, JavaScript를 사용하여 반응형 웹 디자인을 구현
 
+![image](https://github.com/user-attachments/assets/afd74570-e00a-4fcf-9fde-b343dcb72c14)
+
+
 ## 기능
 
 - **메인 네비게이션**: 학과소개, 전공안내, 공학인증, 학과광장, 커뮤니티 등의 메뉴로 구성, 메뉴 항목 호버 시 서브 메뉴 표시
