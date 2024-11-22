@@ -1,7 +1,7 @@
 # 🎓 sungkyulweb - 학과 홈페이지 퍼블리싱
 
 
-HTML, CSS, JavaScript를 사용하여 반응형 웹 디자인을 구현 💻
+HTML, CSS, JavaScript를 사용하여 구현 💻
 
 
 
