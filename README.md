@@ -1,4 +1,4 @@
-# 🎓 sungkyulweb - 학과 홈페이지 퍼블리싱
+# 🎓 computerweb - 학과 홈페이지 퍼블리싱
 
 
 HTML, CSS, JavaScript를 사용하여 구현 💻
